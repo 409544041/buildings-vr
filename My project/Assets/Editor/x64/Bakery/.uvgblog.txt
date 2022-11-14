@@ -1,0 +1,19 @@
+Done
+initShaders done
+initScene done
+Num alphas of 512x512: 2
+Num alphas of 1024x1024: 1
+Done
+initShaders done
+Done
+initShaders done
+initScene done
+Num alphas of 512x512: 2
+Num alphas of 1024x1024: 1
+Done
+initShaders done
+Done
+initShaders done
+initScene done
+Num alphas of 512x512: 2
+Num alphas of 1024x1024: 1
